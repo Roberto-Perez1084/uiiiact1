@@ -45,26 +45,26 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
           makePage(
             page: 1,
             image: 'assets/images/one.jpg',
-            title: 'Yosemite National Park',
-            description: 'Yosemite National Park is in California’s Sierra Nevada mountains.'
+            title: 'Guitarras Electricas',
+            description: 'Las mejores marcas, a los mejores precios, solo aqui'
           ),
           makePage(
             page: 2,
             image: 'assets/images/two.jpg',
-            title: 'Golden Gate Bridge',
-            description: 'The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide strait.'
+            title: 'Bajos Electricos',
+            description: 'Los bajos de mejor calidad a un solo click de distancia'
           ),
           makePage(
             page: 3,
             image: 'assets/images/three.jpg',
-            title: 'Sedona',
-            description: "Sedona is regularly described as one of America's most beautiful places."
+            title: 'Amplificadores',
+            description: "El mejor catalogo en sonido mas cerca que nunca"
           ),
           makePage(
             page: 4,
             image: 'assets/images/four.jpg',
-            title: 'Savannah',
-            description: "Savannah, with its Spanish moss, Southern accents and creepy graveyards, is a lot like Charleston, South Carolina."
+            title: 'Accesorios',
+            description: "Lo mejor para potenciar tus habilidades"
           ),
         ],
       ),
